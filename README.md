@@ -1,4 +1,4 @@
-    
+        
 
 # machinelearning_inaction
 
@@ -10,3 +10,4 @@ Contents:
     Chapter03     Splitting datasets one feature at a time:decision trees
     Chapter04     Classifying with probability theory: naive bayes
     Chapter05     Logistic regression
+    Chapter06     Support vector machines
