@@ -1,4 +1,4 @@
-        
+                
 
 # machinelearning_inaction
 
@@ -11,3 +11,4 @@ Contents:
     Chapter04     Classifying with probability theory: naive bayes
     Chapter05     Logistic regression
     Chapter06     Support vector machines
+    Chapter07     Improving classification with the AdaBoost meta-algorithm
