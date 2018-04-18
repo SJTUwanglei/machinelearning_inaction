@@ -12,3 +12,4 @@ Contents:
     Chapter05     Logistic regression
     Chapter06     Support vector machines
     Chapter07     Improving classification with the AdaBoost meta-algorithm
+    Chapter08     Forecasting numeric values with regression
